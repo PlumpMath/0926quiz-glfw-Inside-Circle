@@ -1,1 +1,2 @@
-# 0926quiz-glfw-Inside-Circle
+# cse2022Week4
+목표를 센터에 놓고 스위치
